@@ -1,5 +1,8 @@
 # Documentation
 
+
+> NB: This website requires you to connect to the NTNU network or their VPN.
+
 ## Table of contents
 
 - [Documentation](#documentation)
