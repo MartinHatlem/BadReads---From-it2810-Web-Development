@@ -1,0 +1,2343 @@
+{
+  "books": [
+    {
+      "title": "The Ember Crown",
+      "author": "Lyra Dune",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2018,
+      "image": "https://picsum.photos/200/300?random=1",
+      "description": "A young mage discovers she is the heir to an ancient, fiery throne, destined to reunite a divided kingdom."
+    },
+    {
+      "title": "Echoes of Tomorrow",
+      "author": "Silas Keane",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=2",
+      "description": "In a world where memories can be traded, one scientist fights to preserve what makes us truly human."
+    },
+    {
+      "title": "Shadows Over Amaltheia",
+      "author": "Iris Vale",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=3",
+      "description": "When a renowned astronomer vanishes, her daughter uncovers dark secrets hidden beneath Amaltheia’s glittering skies."
+    },
+    {
+      "title": "A Garden of Stars",
+      "author": "Mara Fenwick",
+      "genre": "Romance",
+      "averageRating": 0.0,
+      "publicationYear": 2015,
+      "image": "https://picsum.photos/200/300?random=4",
+      "description": "A touching love story between an astronomer and a florist, bound together by their shared wonder for the night sky."
+    },
+    {
+      "title": "The Clockwork Library",
+      "author": "Edwin Thorne",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=5",
+      "description": "In a city powered by gears and secrets, a young archivist uncovers a forbidden book that rewrites history itself."
+    },
+    {
+      "title": "Whispers in the Deep",
+      "author": "Celeste Rowan",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=6",
+      "description": "A marine biologist's expedition turns nightmarish as whispers from the ocean depths begin to call her by name."
+    },
+    {
+      "title": "The Cartographer's Paradox",
+      "author": "Noah Vexley",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2017,
+      "image": "https://picsum.photos/200/300?random=7",
+      "description": "An explorer discovers a map that changes every night—and may lead to the edge of the known world."
+    },
+    {
+      "title": "Ashes and Alchemy",
+      "author": "Thalia Cinder",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=8",
+      "description": "A disgraced alchemist seeks redemption by creating life itself—but at what cost to her soul?"
+    },
+    {
+      "title": "The Infinite Tapestry",
+      "author": "Julian Myles",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=9",
+      "description": "Across galaxies, threads of fate intertwine in this sweeping saga of love, destiny, and cosmic rebirth."
+    },
+    {
+      "title": "Letters from the Moon",
+      "author": "Aurelia Frost",
+      "genre": "Drama",
+      "averageRating": 0.0,
+      "publicationYear": 2016,
+      "image": "https://picsum.photos/200/300?random=10",
+      "description": "Through a series of letters, a young woman trapped on a lunar colony uncovers the truth about her past."
+    },
+
+    {
+      "title": "The Silent Citadel",
+      "author": "Gideon Lark",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2014,
+      "image": "https://picsum.photos/200/300?random=11",
+      "description": "A cursed city sleeps beneath crystal sands, and one thief holds the key to waking it—or ending it forever."
+    },
+    {
+      "title": "Quantum Reverie",
+      "author": "Nia Calder",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=12",
+      "description": "A physicist trapped in parallel timelines must choose between saving her world or the one where her son still lives."
+    },
+    {
+      "title": "Murder at Hollowmere",
+      "author": "Felix Wren",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=13",
+      "description": "An isolated manor. A storm. A single night where everyone has a secret—and one of them has blood on their hands."
+    },
+    {
+      "title": "The Alabaster Prophecy",
+      "author": "Seraphine Vale",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=14",
+      "description": "A prophecy carved in marble foretells the fall of the gods, and one scholar dares to interpret its final verse."
+    },
+    {
+      "title": "Crimson Skies and Silver Seas",
+      "author": "Dorian Ashwood",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2013,
+      "image": "https://picsum.photos/200/300?random=15",
+      "description": "A pirate queen sails across blood-red skies in search of a lost empire hidden beneath the waves."
+    },
+    {
+      "title": "Fragments of Eternity",
+      "author": "Isolde Vane",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=16",
+      "description": "A meditation on time, consciousness, and the fragile beauty of existing within the infinite now."
+    },
+    {
+      "title": "The Midnight Mechanism",
+      "author": "Rowan Finch",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=17",
+      "description": "In a city powered by clockwork hearts, a mechanic unravels a conspiracy that could stop time itself."
+    },
+    {
+      "title": "The Paradox Engine",
+      "author": "Lysander Quinn",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=18",
+      "description": "A machine that bends causality becomes the only hope to stop an interdimensional collapse."
+    },
+    {
+      "title": "Cinders Beneath the Snow",
+      "author": "Maris Elden",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2016,
+      "image": "https://picsum.photos/200/300?random=19",
+      "description": "A fire mage exiled to the frozen north learns that warmth can be both a weapon and a curse."
+    },
+    {
+      "title": "Beyond the Obsidian Gate",
+      "author": "Nyssa Vale",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=20",
+      "description": "An ancient doorway opens once every thousand years—and one explorer dares to step through."
+    },
+
+    {
+      "title": "The Glass Labyrinth",
+      "author": "Evelyn Thorn",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=21",
+      "description": "A blind architect designs a glass labyrinth hiding clues to a decades-old murder. Every reflection holds a secret."
+    },
+    {
+      "title": "The Sun Thief",
+      "author": "Callen Mire",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=22",
+      "description": "When the sun disappears from the sky, a runaway thief discovers she may be the only one who can steal it back."
+    },
+    {
+      "title": "Neon Faith",
+      "author": "Riko Matsuda",
+      "genre": "Cyberpunk",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=23",
+      "description": "In a neon-drenched Tokyo, a detective investigates crimes committed by AI priests preaching digital salvation."
+    },
+    {
+      "title": "Winter's Pact",
+      "author": "Harlan Snowe",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2018,
+      "image": "https://picsum.photos/200/300?random=24",
+      "description": "A warrior and a witch form a fragile truce to stop an eternal winter threatening to consume their homeland."
+    },
+    {
+      "title": "City of Rust",
+      "author": "Jonas Redd",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=25",
+      "description": "In a decaying megacity built on the bones of machines, a scavenger finds a code that could reboot humanity."
+    },
+    {
+      "title": "The Painted Veil of Time",
+      "author": "Clara Wren",
+      "genre": "Historical Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2017,
+      "image": "https://picsum.photos/200/300?random=26",
+      "description": "A painter in 18th-century Venice captures more than faces—she paints souls, revealing secrets the powerful would kill to hide."
+    },
+    {
+      "title": "Into the Hollow Sky",
+      "author": "Theo Lark",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=27",
+      "description": "A skyship pilot and her ragtag crew venture into the Hollow Sky, where stars fall and reality bends."
+    },
+    {
+      "title": "The Last Librarian",
+      "author": "Nadia Rooks",
+      "genre": "Dystopian",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=28",
+      "description": "In a future where books are banned, the last librarian guards the world’s final archive beneath the ruins of a forgotten city."
+    },
+    {
+      "title": "Saltwater Bones",
+      "author": "Mina Voss",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2016,
+      "image": "https://picsum.photos/200/300?random=29",
+      "description": "A coastal village is haunted by drowned sailors who whisper from beneath the waves. The sea never forgets."
+    },
+    {
+      "title": "The Ivory Machine",
+      "author": "Dorian Vale",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=30",
+      "description": "A genius engineer's latest invention can bring memories to life—but when it malfunctions, nightmares walk among men."
+    },
+
+    {
+      "title": "Threads of the Forgotten",
+      "author": "Eira Lys",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=31",
+      "description": "A seamstress who can weave fate itself must decide which destinies to unmake—and which to save."
+    },
+    {
+      "title": "Midnight Transit",
+      "author": "Rafael Orin",
+      "genre": "Thriller",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=32",
+      "description": "A detective boards a night train full of strangers—each with a different version of the same crime."
+    },
+    {
+      "title": "Dream Cartography",
+      "author": "Luna Kade",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=33",
+      "description": "Scientists map the subconscious mind, only to discover a shared dream that connects all of humanity."
+    },
+    {
+      "title": "Beneath the Marble Sky",
+      "author": "Seren Dhal",
+      "genre": "Historical Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2015,
+      "image": "https://picsum.photos/200/300?random=34",
+      "description": "In 17th-century India, a sculptor's forbidden love inspires the construction of a monument that will defy time."
+    },
+    {
+      "title": "The Warden of Ashfall Keep",
+      "author": "Kael Morrow",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=35",
+      "description": "An aging knight guards the ruins of a cursed fortress where shadows whisper of long-forgotten wars."
+    },
+    {
+      "title": "Static Bloom",
+      "author": "Nia Rell",
+      "genre": "Cyberpunk",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=36",
+      "description": "A hacker uncovers a digital flower that infects neural implants, spreading beauty—and madness—through the city grid."
+    },
+    {
+      "title": "The Hollow Mirror",
+      "author": "Gareth Finch",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2018,
+      "image": "https://picsum.photos/200/300?random=37",
+      "description": "A cursed mirror shows not reflections, but futures—and once seen, destiny cannot be escaped."
+    },
+    {
+      "title": "Firefly Sonata",
+      "author": "Marian Elen",
+      "genre": "Romance",
+      "averageRating": 0.0,
+      "publicationYear": 2017,
+      "image": "https://picsum.photos/200/300?random=38",
+      "description": "Two musicians fall in love during a summer tour—one chasing fame, the other chasing freedom."
+    },
+    {
+      "title": "The Ferryman's Ledger",
+      "author": "Jonah Vale",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=39",
+      "description": "A mysterious bookkeeper records the names of the dead—and the debts they never repaid."
+    },
+    {
+      "title": "Skybreaker",
+      "author": "Rei Calder",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=40",
+      "description": "A rebel pilot races against empires across shattered skies to claim the weapon that once broke the world."
+    },
+
+    {
+      "title": "The Glass Nomad",
+      "author": "Amira Solen",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=41",
+      "description": "In a desert of mirrors, a wanderer seeks a city that only appears at sunset."
+    },
+    {
+      "title": "The Last Orchard",
+      "author": "Mae Linhart",
+      "genre": "Drama",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=42",
+      "description": "A widowed botanist fights to preserve her family's orchard as climate collapse looms."
+    },
+    {
+      "title": "Chronicles of the Tide",
+      "author": "Orin Valen",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=43",
+      "description": "Two kingdoms rise and fall as the sea itself chooses its new heir."
+    },
+    {
+      "title": "After the Static",
+      "author": "Juno Mercer",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "image": "https://picsum.photos/200/300?random=44",
+      "description": "When all communication fails on Earth, one coder must reprogram silence."
+    },
+    {
+      "title": "Hollow Crown",
+      "author": "Darius Kett",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=45",
+      "description": "A fallen knight returns home to a kingdom that no longer remembers his name."
+    },
+    {
+      "title": "The Bone Atlas",
+      "author": "Elias Marrow",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=46",
+      "description": "Explorers chart a forgotten continent made entirely of bone."
+    },
+    {
+      "title": "Solar Veins",
+      "author": "Kira Denholm",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=47",
+      "description": "A ship powered by starlight carries humanity's last hope across the void."
+    },
+    {
+      "title": "The Quiet Storm",
+      "author": "Nathaniel Roe",
+      "genre": "Romance",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=48",
+      "description": "Two weather forecasters fall in love while predicting the same storm from opposite sides of the world."
+    },
+    {
+      "title": "Ironheart Choir",
+      "author": "Luca Mendez",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=49",
+      "description": "A blacksmith who can sing metal into shape must forge a weapon that cannot kill."
+    },
+    {
+      "title": "The Forgotten Algorithm",
+      "author": "Zara Quinn",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=50",
+      "description": "A linguist uncovers a hidden code inside the world's oldest myth."
+    },
+    {
+      "title": "The Moon Archivist",
+      "author": "Selene Wright",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=51",
+      "description": "An archivist on the Moon uncovers a message written before humanity ever left Earth."
+    },
+    {
+      "title": "A Song for the Hollow",
+      "author": "Rae Corven",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=52",
+      "description": "In a haunted valley, every echo carries the voice of someone who never left."
+    },
+    {
+      "title": "Glass Kingdoms",
+      "author": "Isolde Rehn",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=53",
+      "description": "A princess made of glass must find her heart before the sun rises and she shatters."
+    },
+    {
+      "title": "Learning in the Wild",
+      "author": "Clara Hensley",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=54",
+      "description": "An exploration of how outdoor experiences enhance memory, focus, and creativity in learners of all ages."
+    },
+    {
+      "title": "The Thinking Classroom",
+      "author": "Dr. Amir Patel",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=55",
+      "description": "A guide to building inquiry-based classrooms that prioritize curiosity over memorization."
+    },
+    {
+      "title": "Digital Pedagogy 2.0",
+      "author": "Nadia Sørensen",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=56",
+      "description": "How educators can harness AI and interactive media to create engaging, personalized learning environments."
+    },
+    {
+      "title": "The Empathy Curriculum",
+      "author": "James Okoro",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=57",
+      "description": "A revolutionary approach to education that places emotional intelligence at the center of every lesson."
+    },
+    {
+      "title": "Unlearning Tradition",
+      "author": "Helene Matsuda",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=58",
+      "description": "Challenging outdated teaching models and exploring how unlearning can be the key to real understanding."
+    },
+    {
+      "title": "The Science of Study",
+      "author": "Dr. Leo Anderton",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=59",
+      "description": "A neuroscientist breaks down what really happens in the brain during learning — and how to optimize it."
+    },
+    {
+      "title": "Education Without Walls",
+      "author": "Sofia Mendel",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=60",
+      "description": "A manifesto for open education, accessibility, and the future of global digital classrooms."
+    },
+    {
+      "title": "Reimagining Assessment",
+      "author": "Dr. Paulina Richter",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=61",
+      "description": "New frameworks for measuring learning outcomes beyond grades and standardized testing."
+    },
+    {
+      "title": "Teachers as Designers",
+      "author": "Michael Tanaka",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=62",
+      "description": "An inspiring look at how teachers can use design thinking to reinvent learning experiences."
+    },
+    {
+      "title": "The Future of Learning",
+      "author": "Isabella Lund",
+      "genre": "Education",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=63",
+      "description": "Exploring trends like AI tutors, gamified learning, and global classrooms that redefine what it means to learn."
+    },
+    {
+      "title": "The Silence Between Thoughts",
+      "author": "Elara Voss",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=64",
+      "description": "A meditation on awareness, identity, and the quiet spaces that define the human mind."
+    },
+    {
+      "title": "On the Edge of Meaning",
+      "author": "Dr. Tomas Arendt",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=65",
+      "description": "A modern philosopher explores how language both reveals and obscures the truth of existence."
+    },
+    {
+      "title": "Fragments of Tomorrow",
+      "author": "Leonie Garret",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=66",
+      "description": "Through essays and paradoxes, this work questions whether progress is truly compatible with wisdom."
+    },
+    {
+      "title": "The Mirror of Time",
+      "author": "Andrej Kovac",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=67",
+      "description": "A journey through human consciousness, perception, and the illusion of continuity."
+    },
+    {
+      "title": "The Ethics of Emptiness",
+      "author": "Rina Matsuo",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=68",
+      "description": "Blending Eastern and Western philosophy, Matsuo challenges the assumption that morality requires meaning."
+    },
+    {
+      "title": "Reason's Shadow",
+      "author": "Julian DeVere",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=69",
+      "description": "A critical reflection on rationalism and its limits in an age of artificial intelligence."
+    },
+    {
+      "title": "Becoming Nobody",
+      "author": "Aria Kandel",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=70",
+      "description": "A poetic inquiry into ego, freedom, and the paradox of selflessness."
+    },
+    {
+      "title": "The Machine Dreams",
+      "author": "Dr. Otto Klein",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=71",
+      "description": "Can consciousness arise from computation? A philosopher of mind revisits the question of artificial being."
+    },
+    {
+      "title": "Echoes of Being",
+      "author": "Nadia Ferren",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=72",
+      "description": "An exploration of Heidegger's concept of 'being' reimagined for the digital age."
+    },
+    {
+      "title": "The Paradox of Choice and Chance",
+      "author": "Erik Lundström",
+      "genre": "Philosophy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=73",
+      "description": "A philosopher examines the tension between determinism and free will through everyday decisions."
+    },
+    {
+      "title": "The Starforged Oath",
+      "author": "Lyra Fenwood",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=101",
+      "description": "A warrior bound to a celestial sword must decide whether to save her kingdom or the stars that gave her power."
+    },
+    {
+      "title": "Harmonics of the Void",
+      "author": "Silas Rowan",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=102",
+      "description": "A musician discovers that her songs can reshape spacetime—and others want her melody for war."
+    },
+    {
+      "title": "The Violet Hour Murders",
+      "author": "Iris Belmore",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=103",
+      "description": "At a secluded chateau, each sunset brings a new clue—and another victim."
+    },
+    {
+      "title": "When We Were Starlight",
+      "author": "Mara Estelle",
+      "genre": "Romance",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=104",
+      "description": "Two childhood friends reunite under a meteor shower and rediscover the love they once abandoned."
+    },
+    {
+      "title": "The Cogsmith’s Daughter",
+      "author": "Edwin Vale",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=105",
+      "description": "A gifted engineer unravels the secret behind a machine that can rewrite memories."
+    },
+    {
+      "title": "Beneath the Cradle",
+      "author": "Rowan Selwyn",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=106",
+      "description": "A family moves into an old farmhouse where the baby monitors pick up voices from under the floorboards."
+    },
+    {
+      "title": "The Compass of Windsong",
+      "author": "Callen Dusk",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=107",
+      "description": "A young sailor follows an enchanted compass to a world where storms are alive."
+    },
+    {
+      "title": "The Alchemist’s Requiem",
+      "author": "Thalia Vint",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=108",
+      "description": "An aging alchemist attempts one final transmutation: turning her last regret into hope."
+    },
+    {
+      "title": "Nebula Harvest",
+      "author": "Julian Crest",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=109",
+      "description": "Humanity farms dying stars for energy—until one star speaks back."
+    },
+    {
+      "title": "Paper Cranes in Winter",
+      "author": "Aurelia Kent",
+      "genre": "Drama",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=110",
+      "description": "After a family tragedy, a young artist creates 1000 cranes to piece her life back together."
+    },
+
+    {
+      "title": "The Sapphire Sentinel",
+      "author": "Gideon Arwyn",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=111",
+      "description": "A guardian statue awakens to protect the child it was carved for centuries earlier."
+    },
+    {
+      "title": "The Folding Moon",
+      "author": "Nia Lorren",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=112",
+      "description": "Lunar researchers discover an impossible phenomenon: the Moon has begun to fold inward."
+    },
+    {
+      "title": "Murder at Greyfall Station",
+      "author": "Felix Blackwood",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=113",
+      "description": "An old railway station becomes the center of a chilling puzzle when every clock stops at the same moment."
+    },
+    {
+      "title": "The Crimson Orchard",
+      "author": "Maris Anwen",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2018,
+      "image": "https://picsum.photos/200/300?random=114",
+      "description": "A forbidden orchard grows fruit that reveals whoever last touched it—dead or alive."
+    },
+    {
+      "title": "The Ethereal Chronicle",
+      "author": "Seraphine Arden",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=115",
+      "description": "A scholar unearths a book that writes back, chronicling events before they occur."
+    },
+
+    {
+      "title": "Reflections of the Cogmind",
+      "author": "Dorian Crest",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=116",
+      "description": "A mirror powered by steam reveals the truths people hide from themselves."
+    },
+    {
+      "title": "Dreams of the Iron Reef",
+      "author": "Jonas Vale",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=117",
+      "description": "In an ocean of scrap metal, divers uncover a living machine dreaming beneath the waves."
+    },
+    {
+      "title": "Whispers of the Larkspire",
+      "author": "Eira Venn",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=118",
+      "description": "A girl who can speak to enchanted forests must negotiate peace between humans and ancient trees."
+    },
+    {
+      "title": "Terminal Midnight",
+      "author": "Rafael Lynne",
+      "genre": "Thriller",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=119",
+      "description": "Passengers aboard a night flight begin receiving messages from a future where the plane never lands."
+    },
+    {
+      "title": "Memory Garden",
+      "author": "Luna Faye",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=120",
+      "description": "Scientists cultivate memories like flowers—until someone plants a memory that never existed."
+    },
+
+    {
+      "title": "Embers of the Colossus",
+      "author": "Kael Riven",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=121",
+      "description": "A slumbering stone giant awakens, carrying a forgotten city on its back."
+    },
+    {
+      "title": "Concrete Hymns",
+      "author": "Riko Hale",
+      "genre": "Cyberpunk",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=122",
+      "description": "A street poet discovers his verses can hack the digital underworld."
+    },
+    {
+      "title": "Ghost Tide",
+      "author": "Mina Solis",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=123",
+      "description": "A fishing village is terrorized when the spirits of drowned sailors return with the tide."
+    },
+    {
+      "title": "The Ashen Heir",
+      "author": "Nyssa Lorrel",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=124",
+      "description": "A princess born without magic must claim a throne that requires it."
+    },
+    {
+      "title": "Voyagers of the Hollow Sun",
+      "author": "Theo Ren",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=125",
+      "description": "A crew sails into a dying star rumored to contain paradise."
+    },
+
+    {
+      "title": "The Lantern Archivists",
+      "author": "Nadia Vale",
+      "genre": "Dystopian",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=126",
+      "description": "In a world where light is currency, archivists guard the last flame capable of ending the dark age."
+    },
+    {
+      "title": "The Saltwind Testament",
+      "author": "Mara Lin",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=127",
+      "description": "A lighthouse keeper finds a journal predicting each storm—and each death along with it."
+    },
+    {
+      "title": "Pale Kingdoms",
+      "author": "Isolde Fen",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=128",
+      "description": "A cartographer travels through kingdoms where shadows rule in place of kings."
+    },
+    {
+      "title": "The Horizon Unbound",
+      "author": "Jonah Crest",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=129",
+      "description": "A rogue pilot attempts the first voyage beyond the world’s edge."
+    },
+    {
+      "title": "Ink of the Eternal",
+      "author": "Evelyn Soria",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=130",
+      "description": "A scribe discovers her ink binds spirits—and they want to be free."
+    },
+    {
+      "title": "The Glass Orchard",
+      "author": "Elara Whitcombe",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=131",
+      "description": "A grove of crystal trees begins to crack, releasing ancient spirits desperate for freedom."
+    },
+    {
+      "title": "Signal of the Deep",
+      "author": "Aric Thornwell",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=132",
+      "description": "An underwater research station detects a repeating signal from deeper than the ocean should go."
+    },
+    {
+      "title": "The Vanishing Staircase",
+      "author": "Marion Keats",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=133",
+      "description": "A detective investigates a mansion where staircases appear and disappear overnight."
+    },
+    {
+      "title": "A Song for Broken Wings",
+      "author": "Liora Dane",
+      "genre": "Romance",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=134",
+      "description": "A musician healing from heartbreak meets a dancer who has forgotten how to dream."
+    },
+    {
+      "title": "Brass Empire Rising",
+      "author": "Cedric Ashfall",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=135",
+      "description": "A rebel engineer sparks a revolution when she builds an airship unlike any before it."
+    },
+    {
+      "title": "The Sleepless Choir",
+      "author": "Ezra Hollis",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=136",
+      "description": "A town is haunted by ghostly voices singing every night—and the song is getting louder."
+    },
+    {
+      "title": "The Gilded Spire",
+      "author": "Amara Thorn",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=137",
+      "description": "A thief climbing a legendary tower discovers that every floor reshapes itself based on her fears."
+    },
+    {
+      "title": "Starlit Exile",
+      "author": "Nero Valen",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=138",
+      "description": "Banished from Earth, a pilot uncovers a conspiracy that spans across colonized galaxies."
+    },
+    {
+      "title": "The Last Echo of Winterhall",
+      "author": "Cassandra Vale",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=139",
+      "description": "An abandoned academy hides a frozen secret only the echoes in its halls can reveal."
+    },
+    {
+      "title": "Garden of Falling Suns",
+      "author": "Mira Sylvan",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=140",
+      "description": "In a land where miniature suns grow like flowers, a girl must prevent the eternal dusk."
+    },
+
+    {
+      "title": "The Obsidian Waltz",
+      "author": "Rylan Creed",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=141",
+      "description": "A cursed dancer performs a waltz that slowly turns her heart to obsidian."
+    },
+    {
+      "title": "Helios Drift",
+      "author": "Dax Renfield",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=142",
+      "description": "A spacecraft drifting around a dying star reveals a time loop no one can escape."
+    },
+    {
+      "title": "The Copper Mask Murders",
+      "author": "Agnes Blackshore",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=143",
+      "description": "A series of killings all lead back to a masked figure who leaves no footprints."
+    },
+    {
+      "title": "Winds of the Waking Sea",
+      "author": "Elyse Ardin",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=144",
+      "description": "Sailors whisper of a sea that sleeps, and the one who wakes it will control the tides of fate."
+    },
+    {
+      "title": "Kaleidoscope Hearts",
+      "author": "Jonah Thorne",
+      "genre": "Romance",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=145",
+      "description": "Two strangers trade anonymous letters in a café and discover their lives are already linked."
+    },
+
+    {
+      "title": "The Brass-Tide Autograph",
+      "author": "Crispin Hale",
+      "genre": "Steampunk",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=146",
+      "description": "A famous inventor’s missing autograph book contains blueprints for a forbidden machine."
+    },
+    {
+      "title": "Moonfall Protocol",
+      "author": "Lyra Kestrel",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=147",
+      "description": "A lunar base activates a long-hidden protocol as the Moon begins to fracture."
+    },
+    {
+      "title": "The House That Breathed",
+      "author": "Oliver Thorne",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=148",
+      "description": "A couple moves into a home that exhales warm air at night—like it is alive."
+    },
+    {
+      "title": "The Sevenfold Crown",
+      "author": "Isadora Wynn",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=149",
+      "description": "Seven rulers share a single crown, but only one truly controls its ancient magic."
+    },
+    {
+      "title": "Voyage of the Starbound Nomads",
+      "author": "Harlan Frost",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=150",
+      "description": "A nomadic crew travels across drifting sky-islands in search of a lost civilization."
+    },
+
+    {
+      "title": "Inkbound Lullabies",
+      "author": "Mariel Fern",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=151",
+      "description": "A librarian’s lullabies come to life, protecting a child destined to reshape kingdoms."
+    },
+    {
+      "title": "The Last Meridian",
+      "author": "Ronan Vale",
+      "genre": "Science Fiction",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=152",
+      "description": "An astronomer discovers a new meridian—one that exists only in parallel worlds."
+    },
+    {
+      "title": "The Fogbound Letters",
+      "author": "Helena Crowe",
+      "genre": "Mystery",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=153",
+      "description": "An investigator receives letters from a town lost in fog—and from someone long dead."
+    },
+    {
+      "title": "The Serpent of Hollowmere",
+      "author": "Evan Ridge",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2021,
+      "image": "https://picsum.photos/200/300?random=154",
+      "description": "A guardian spirit awakens when an ancient serpent returns to claim the valley."
+    },
+    {
+      "title": "The Electric Bones of Arcturus",
+      "author": "Jace Thornfield",
+      "genre": "Cyberpunk",
+      "averageRating": 0.0,
+      "publicationYear": 2024,
+      "image": "https://picsum.photos/200/300?random=155",
+      "description": "A hacker discovers a digital skeleton key with the power to collapse entire neon megacities."
+    },
+
+    {
+      "title": "Nightjar’s Requiem",
+      "author": "Sylvie Corren",
+      "genre": "Horror",
+      "averageRating": 0.0,
+      "publicationYear": 2025,
+      "image": "https://picsum.photos/200/300?random=156",
+      "description": "When a nocturnal bird goes extinct, something else begins to sing in the dark."
+    },
+    {
+      "title": "A Crown of Broken Stars",
+      "author": "Theron Blake",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2023,
+      "image": "https://picsum.photos/200/300?random=157",
+      "description": "A fallen star chooses a mortal ruler, sparking a war between heaven and earth."
+    },
+    {
+      "title": "The Compass That Lied",
+      "author": "Elaine Marrow",
+      "genre": "Adventure",
+      "averageRating": 0.0,
+      "publicationYear": 2020,
+      "image": "https://picsum.photos/200/300?random=158",
+      "description": "A treasure hunter’s compass always lies—yet somehow leads to the truth."
+    },
+    {
+      "title": "The Winterbound Pact",
+      "author": "Finn Rowan",
+      "genre": "Fantasy",
+      "averageRating": 0.0,
+      "publicationYear": 2022,
+      "image": "https://picsum.photos/200/300?random=159",
+      "description": "A pact formed in eternal winter threatens to shatter as the first thaw approaches."
+    },
+    {
+      "title": "Shards of the Quiet Dawn",
+      "author": "Alina Cress",
+      "genre": "Drama",
+      "averageRating": 0.0,
+      "publicationYear": 2019,
+      "image": "https://picsum.photos/200/300?random=160",
+      "description": "After a life-changing accident, a photographer seeks beauty in places she once ignored."
+    }
+  ],
+
+  "users": [
+    { "id": 1, "name": "Student", "email": "student@example.com" },
+    { "id": 2, "name": "Martin", "email": "martin@example.com" },
+    { "id": 3, "name": "Helle", "email": "helle@example.com" },
+    { "id": 4, "name": "Iril", "email": "iril@example.com" },
+    { "id": 5, "name": "Lisa", "email": "lisa@example.com" },
+    { "id": 6, "name": "Christian", "email": "christian@example.com" },
+    { "id": 7, "name": "Thomas", "email": "thomas@example.com" },
+    { "id": 8, "name": "Sarah", "email": "sarah@example.com" },
+    { "id": 9, "name": "Sofie", "email": "sofie@example.com" },
+    { "id": 10, "name": "Frank", "email": "frank@example.com" },
+    { "id": 11, "name": "Petter", "email": "petter@example.com" },
+    { "id": 12, "name": "Maren", "email": "maren@example.com" }
+  ],
+
+  "reviews": [
+    {
+      "id": 1,
+      "bookId": 1,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Magical and full of heart!",
+      "dateCreated": "2024-06-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "bookId": 1,
+      "userId": 3,
+      "rating": 5.0,
+      "comment": "Loved the worldbuilding.",
+      "dateCreated": "2024-06-01T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "bookId": 2,
+      "userId": 7,
+      "rating": 5.0,
+      "comment": "Fantastic ideas, beautifully written.",
+      "dateCreated": "2024-07-12T14:30:00Z"
+    },
+    {
+      "id": 4,
+      "bookId": 3,
+      "userId": 5,
+      "rating": 5.0,
+      "comment": "Twists I didn't see coming.",
+      "dateCreated": "2024-08-05T10:15:00Z"
+    },
+    {
+      "id": 5,
+      "bookId": 4,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "Charming but slow in places.",
+      "dateCreated": "2024-06-20T16:45:00Z"
+    },
+    {
+      "id": 6,
+      "bookId": 5,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Loved the steampunk setting!",
+      "dateCreated": "2024-09-10T11:20:00Z"
+    },
+    {
+      "id": 7,
+      "bookId": 6,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Creepy and atmospheric.",
+      "dateCreated": "2024-10-01T19:30:00Z"
+    },
+    {
+      "id": 8,
+      "bookId": 7,
+      "userId": 5,
+      "rating": 5.0,
+      "comment": "Adventure at its best.",
+      "dateCreated": "2024-07-25T13:00:00Z"
+    },
+    {
+      "id": 9,
+      "bookId": 8,
+      "userId": 12,
+      "rating": 4.0,
+      "comment": "Alchemical magic done right.",
+      "dateCreated": "2024-08-15T15:45:00Z"
+    },
+    {
+      "id": 10,
+      "bookId": 9,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Deep and emotionally resonant.",
+      "dateCreated": "2024-09-20T12:30:00Z"
+    },
+    {
+      "id": 11,
+      "bookId": 10,
+      "userId": 2,
+      "rating": 4.0,
+      "comment": "Poetic and sad.",
+      "dateCreated": "2024-06-15T14:00:00Z"
+    },
+    {
+      "id": 12,
+      "bookId": 11,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Classic fantasy vibes.",
+      "dateCreated": "2024-07-08T10:30:00Z"
+    },
+    {
+      "id": 13,
+      "bookId": 12,
+      "userId": 5,
+      "rating": 4.0,
+      "comment": "Brainy and touching.",
+      "dateCreated": "2024-08-22T16:15:00Z"
+    },
+    {
+      "id": 14,
+      "bookId": 13,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "A perfect mystery.",
+      "dateCreated": "2024-09-05T11:45:00Z"
+    },
+    {
+      "id": 15,
+      "bookId": 14,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Epic and unforgettable.",
+      "dateCreated": "2024-10-12T17:20:00Z"
+    },
+    {
+      "id": 17,
+      "bookId": 16,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "A bit abstract but interesting.",
+      "dateCreated": "2024-07-18T13:30:00Z"
+    },
+    {
+      "id": 18,
+      "bookId": 17,
+      "userId": 5,
+      "rating": 5.0,
+      "comment": "Loved the concept of mechanical hearts!",
+      "dateCreated": "2024-08-30T15:00:00Z"
+    },
+    {
+      "id": 19,
+      "bookId": 18,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Mind-bending time travel story.",
+      "dateCreated": "2024-09-15T12:00:00Z"
+    },
+    {
+      "id": 20,
+      "bookId": 19,
+      "userId": 2,
+      "rating": 3.0,
+      "comment": "Solid but not her best work.",
+      "dateCreated": "2024-06-28T14:45:00Z"
+    },
+    {
+      "id": 21,
+      "bookId": 20,
+      "userId": 5,
+      "rating": 5.0,
+      "comment": "A breathtaking finale to a great saga.",
+      "dateCreated": "2024-10-20T16:30:00Z"
+    },
+    {
+      "id": 22,
+      "bookId": 21,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Beautifully written and full of twists. The ending left me stunned.",
+      "dateCreated": "2024-09-25T10:00:00Z"
+    },
+    {
+      "id": 23,
+      "bookId": 21,
+      "userId": 5,
+      "rating": 4.0,
+      "comment": "A bit slow at the start but the atmosphere is incredible!",
+      "dateCreated": "2024-09-28T14:20:00Z"
+    },
+    {
+      "id": 24,
+      "bookId": 22,
+      "userId": 3,
+      "rating": 5.0,
+      "comment": "Epic worldbuilding and a strong female lead. Loved it!",
+      "dateCreated": "2024-10-05T11:30:00Z"
+    },
+    {
+      "id": 25,
+      "bookId": 22,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "A fun and imaginative fantasy adventure. Great pacing.",
+      "dateCreated": "2024-10-08T15:45:00Z"
+    },
+    {
+      "id": 27,
+      "bookId": 24,
+      "userId": 5,
+      "rating": 5.0,
+      "comment": "Rich and poetic writing. I couldn't put it down.",
+      "dateCreated": "2024-08-18T13:15:00Z"
+    },
+    {
+      "id": 28,
+      "bookId": 25,
+      "userId": 2,
+      "rating": 4.0,
+      "comment": "Interesting concept, but the middle section dragged a bit.",
+      "dateCreated": "2024-09-12T16:00:00Z"
+    },
+    {
+      "id": 29,
+      "bookId": 25,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "Loved the gritty atmosphere. Felt like Blade Runner meets Mad Max.",
+      "dateCreated": "2024-09-14T12:30:00Z"
+    },
+    {
+      "id": 30,
+      "bookId": 26,
+      "userId": 3,
+      "rating": 5.0,
+      "comment": "Absolutely gorgeous historical fiction. A masterpiece.",
+      "dateCreated": "2024-07-22T10:45:00Z"
+    },
+    {
+      "id": 31,
+      "bookId": 27,
+      "userId": 11,
+      "rating": 4.0,
+      "comment": "Fast-paced and full of charm. Would love to see this as a movie.",
+      "dateCreated": "2024-10-15T17:00:00Z"
+    },
+    {
+      "id": 32,
+      "bookId": 28,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "One of the best dystopian novels I've read in years.",
+      "dateCreated": "2024-08-28T14:30:00Z"
+    },
+    {
+      "id": 33,
+      "bookId": 28,
+      "userId": 5,
+      "rating": 5.0,
+      "comment": "A love letter to books and knowledge. It really hit home.",
+      "dateCreated": "2024-08-30T11:00:00Z"
+    },
+    {
+      "id": 34,
+      "bookId": 29,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Creepy and immersive. The seaside setting was hauntingly beautiful.",
+      "dateCreated": "2024-09-18T15:20:00Z"
+    },
+    {
+      "id": 35,
+      "bookId": 30,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "Steampunk done right. The invention scenes were so vivid!",
+      "dateCreated": "2024-10-22T13:45:00Z"
+    },
+    {
+      "id": 36,
+      "bookId": 31,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "An emotional and magical journey. The concept blew my mind.",
+      "dateCreated": "2024-07-30T16:30:00Z"
+    },
+    {
+      "id": 37,
+      "bookId": 32,
+      "userId": 5,
+      "rating": 4.0,
+      "comment": "Felt like an old-school mystery thriller. Great tension.",
+      "dateCreated": "2024-08-10T12:15:00Z"
+    },
+    {
+      "id": 38,
+      "bookId": 33,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "Really cool idea but I wish the ending was stronger.",
+      "dateCreated": "2024-09-02T10:30:00Z"
+    },
+    {
+      "id": 39,
+      "bookId": 34,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Heartfelt and vivid. A must-read for fans of historical romance.",
+      "dateCreated": "2024-10-18T14:00:00Z"
+    },
+    {
+      "id": 40,
+      "bookId": 35,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Dark, moody, and full of tension. The lore was fascinating.",
+      "dateCreated": "2024-11-01T11:45:00Z"
+    },
+    {
+      "id": 41,
+      "bookId": 1,
+      "userId": 7,
+      "rating": 4.5,
+      "comment": "Loved the atmosphere!",
+      "dateCreated": "2024-01-02T10:15:00Z"
+    },
+    {
+      "id": 42,
+      "bookId": 2,
+      "userId": 3,
+      "rating": 5.0,
+      "comment": "Incredible worldbuilding.",
+      "dateCreated": "2024-01-03T09:20:00Z"
+    },
+    {
+      "id": 43,
+      "bookId": 3,
+      "userId": 10,
+      "rating": 3.5,
+      "comment": "Slow start but strong finish.",
+      "dateCreated": "2024-01-04T11:05:00Z"
+    },
+    {
+      "id": 44,
+      "bookId": 4,
+      "userId": 6,
+      "rating": 4.0,
+      "comment": "Emotional and well written.",
+      "dateCreated": "2024-01-05T14:40:00Z"
+    },
+    {
+      "id": 45,
+      "bookId": 5,
+      "userId": 11,
+      "rating": 5.0,
+      "comment": "A masterpiece!",
+      "dateCreated": "2024-01-06T08:32:00Z"
+    },
+    {
+      "id": 46,
+      "bookId": 6,
+      "userId": 5,
+      "rating": 4.0,
+      "comment": "Creepy in the best way.",
+      "dateCreated": "2024-01-07T18:12:00Z"
+    },
+    {
+      "id": 47,
+      "bookId": 7,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Couldn’t put it down.",
+      "dateCreated": "2024-01-08T16:22:00Z"
+    },
+    {
+      "id": 48,
+      "bookId": 8,
+      "userId": 2,
+      "rating": 3.0,
+      "comment": "Good but uneven pacing.",
+      "dateCreated": "2024-01-09T20:45:00Z"
+    },
+    {
+      "id": 49,
+      "bookId": 9,
+      "userId": 12,
+      "rating": 4.0,
+      "comment": "Mystery done right.",
+      "dateCreated": "2024-01-10T12:12:00Z"
+    },
+    {
+      "id": 50,
+      "bookId": 10,
+      "userId": 9,
+      "rating": 3.5,
+      "comment": "Beautiful writing.",
+      "dateCreated": "2024-01-11T07:11:00Z"
+    },
+
+    {
+      "id": 51,
+      "bookId": 11,
+      "userId": 3,
+      "rating": 4.5,
+      "comment": "Great character work.",
+      "dateCreated": "2024-01-12T13:21:00Z"
+    },
+    {
+      "id": 52,
+      "bookId": 12,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Mind-blowing concepts!",
+      "dateCreated": "2024-01-13T10:30:00Z"
+    },
+    {
+      "id": 53,
+      "bookId": 13,
+      "userId": 11,
+      "rating": 4.0,
+      "comment": "Classic mystery vibes.",
+      "dateCreated": "2024-01-14T16:47:00Z"
+    },
+    {
+      "id": 54,
+      "bookId": 14,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Loved the magic system.",
+      "dateCreated": "2024-01-15T09:50:00Z"
+    },
+    {
+      "id": 55,
+      "bookId": 15,
+      "userId": 10,
+      "rating": 3.5,
+      "comment": "Sweet and charming.",
+      "dateCreated": "2024-01-16T15:05:00Z"
+    },
+    {
+      "id": 56,
+      "bookId": 16,
+      "userId": 7,
+      "rating": 4.0,
+      "comment": "Steampunk done well.",
+      "dateCreated": "2024-01-17T18:33:00Z"
+    },
+    {
+      "id": 57,
+      "bookId": 17,
+      "userId": 6,
+      "rating": 4.0,
+      "comment": "Interesting plot twists.",
+      "dateCreated": "2024-01-18T11:18:00Z"
+    },
+    {
+      "id": 58,
+      "bookId": 18,
+      "userId": 12,
+      "rating": 5.0,
+      "comment": "Terrifying and brilliant!",
+      "dateCreated": "2024-01-19T14:25:00Z"
+    },
+    {
+      "id": 59,
+      "bookId": 19,
+      "userId": 5,
+      "rating": 4.5,
+      "comment": "Loved every chapter.",
+      "dateCreated": "2024-01-20T09:42:00Z"
+    },
+    {
+      "id": 60,
+      "bookId": 20,
+      "userId": 9,
+      "rating": 3.0,
+      "comment": "A bit slow but creative.",
+      "dateCreated": "2024-01-21T17:55:00Z"
+    },
+
+    {
+      "id": 61,
+      "bookId": 21,
+      "userId": 4,
+      "rating": 4.5,
+      "comment": "Magical and unique.",
+      "dateCreated": "2024-01-22T07:33:00Z"
+    },
+    {
+      "id": 62,
+      "bookId": 22,
+      "userId": 6,
+      "rating": 5.0,
+      "comment": "Sci-fi perfection!",
+      "dateCreated": "2024-01-23T09:23:00Z"
+    },
+    {
+      "id": 63,
+      "bookId": 23,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Clever mystery.",
+      "dateCreated": "2024-01-24T19:33:00Z"
+    },
+    {
+      "id": 64,
+      "bookId": 24,
+      "userId": 7,
+      "rating": 4.5,
+      "comment": "Warm and emotional.",
+      "dateCreated": "2024-01-25T13:59:00Z"
+    },
+    {
+      "id": 65,
+      "bookId": 25,
+      "userId": 10,
+      "rating": 4.0,
+      "comment": "Steampunk adventure!",
+      "dateCreated": "2024-01-26T12:31:00Z"
+    },
+    {
+      "id": 66,
+      "bookId": 26,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Epic and ambitious.",
+      "dateCreated": "2024-01-27T21:14:00Z"
+    },
+    {
+      "id": 67,
+      "bookId": 27,
+      "userId": 2,
+      "rating": 3.5,
+      "comment": "Solid but predictable.",
+      "dateCreated": "2024-01-28T11:21:00Z"
+    },
+    {
+      "id": 68,
+      "bookId": 28,
+      "userId": 6,
+      "rating": 4.0,
+      "comment": "Chilling atmosphere.",
+      "dateCreated": "2024-01-29T09:14:00Z"
+    },
+    {
+      "id": 69,
+      "bookId": 29,
+      "userId": 5,
+      "rating": 4.5,
+      "comment": "Loved the pacing.",
+      "dateCreated": "2024-01-30T16:16:00Z"
+    },
+    {
+      "id": 70,
+      "bookId": 30,
+      "userId": 12,
+      "rating": 3.0,
+      "comment": "Nice but uneven.",
+      "dateCreated": "2024-01-31T08:57:00Z"
+    },
+
+    {
+      "id": 71,
+      "bookId": 31,
+      "userId": 9,
+      "rating": 4.5,
+      "comment": "Beautifully written.",
+      "dateCreated": "2024-02-01T10:10:00Z"
+    },
+    {
+      "id": 72,
+      "bookId": 32,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Exceptional sci-fi.",
+      "dateCreated": "2024-02-02T14:44:00Z"
+    },
+    {
+      "id": 73,
+      "bookId": 33,
+      "userId": 11,
+      "rating": 4.0,
+      "comment": "Creepy and fun.",
+      "dateCreated": "2024-02-03T15:15:00Z"
+    },
+    {
+      "id": 74,
+      "bookId": 34,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Enchanting fantasy.",
+      "dateCreated": "2024-02-04T16:01:00Z"
+    },
+    {
+      "id": 75,
+      "bookId": 35,
+      "userId": 10,
+      "rating": 3.5,
+      "comment": "Thought-provoking.",
+      "dateCreated": "2024-02-05T12:19:00Z"
+    },
+    {
+      "id": 76,
+      "bookId": 36,
+      "userId": 6,
+      "rating": 4.5,
+      "comment": "Haunting story.",
+      "dateCreated": "2024-02-06T18:00:00Z"
+    },
+    {
+      "id": 77,
+      "bookId": 37,
+      "userId": 5,
+      "rating": 4.0,
+      "comment": "Strong character arcs.",
+      "dateCreated": "2024-02-07T11:50:00Z"
+    },
+    {
+      "id": 78,
+      "bookId": 38,
+      "userId": 3,
+      "rating": 4.5,
+      "comment": "Loved the twists!",
+      "dateCreated": "2024-02-08T08:18:00Z"
+    },
+    {
+      "id": 79,
+      "bookId": 39,
+      "userId": 12,
+      "rating": 3.5,
+      "comment": "Good but heavy.",
+      "dateCreated": "2024-02-09T20:14:00Z"
+    },
+    {
+      "id": 80,
+      "bookId": 40,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "Strong emotional core.",
+      "dateCreated": "2024-02-10T07:40:00Z"
+    },
+
+    {
+      "id": 81,
+      "bookId": 41,
+      "userId": 7,
+      "rating": 4.5,
+      "comment": "Amazing setting!",
+      "dateCreated": "2024-02-11T09:50:00Z"
+    },
+    {
+      "id": 82,
+      "bookId": 42,
+      "userId": 11,
+      "rating": 5.0,
+      "comment": "Couldn't stop reading.",
+      "dateCreated": "2024-02-12T13:25:00Z"
+    },
+    {
+      "id": 83,
+      "bookId": 43,
+      "userId": 9,
+      "rating": 3.5,
+      "comment": "Good writing style.",
+      "dateCreated": "2024-02-13T16:35:00Z"
+    },
+    {
+      "id": 84,
+      "bookId": 44,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Strong protagonist.",
+      "dateCreated": "2024-02-14T18:40:00Z"
+    },
+    {
+      "id": 85,
+      "bookId": 45,
+      "userId": 2,
+      "rating": 4.5,
+      "comment": "Super immersive.",
+      "dateCreated": "2024-02-15T12:11:00Z"
+    },
+    {
+      "id": 86,
+      "bookId": 46,
+      "userId": 6,
+      "rating": 3.0,
+      "comment": "Solid but slow.",
+      "dateCreated": "2024-02-16T09:18:00Z"
+    },
+    {
+      "id": 87,
+      "bookId": 47,
+      "userId": 10,
+      "rating": 5.0,
+      "comment": "Absolutely loved it!",
+      "dateCreated": "2024-02-17T14:55:00Z"
+    },
+    {
+      "id": 88,
+      "bookId": 48,
+      "userId": 12,
+      "rating": 4.0,
+      "comment": "Great atmosphere.",
+      "dateCreated": "2024-02-18T11:34:00Z"
+    },
+    {
+      "id": 89,
+      "bookId": 49,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Keeps you guessing.",
+      "dateCreated": "2024-02-19T19:19:00Z"
+    },
+    {
+      "id": 90,
+      "bookId": 50,
+      "userId": 4,
+      "rating": 3.5,
+      "comment": "Enjoyable read.",
+      "dateCreated": "2024-02-20T07:47:00Z"
+    },
+
+    {
+      "id": 91,
+      "bookId": 51,
+      "userId": 6,
+      "rating": 4.0,
+      "comment": "Loved the themes.",
+      "dateCreated": "2024-02-21T13:03:00Z"
+    },
+    {
+      "id": 92,
+      "bookId": 52,
+      "userId": 9,
+      "rating": 5.0,
+      "comment": "Top-tier sci-fi.",
+      "dateCreated": "2024-02-22T17:44:00Z"
+    },
+    {
+      "id": 93,
+      "bookId": 53,
+      "userId": 7,
+      "rating": 4.0,
+      "comment": "Fun mystery ride.",
+      "dateCreated": "2024-02-23T20:00:00Z"
+    },
+    {
+      "id": 94,
+      "bookId": 54,
+      "userId": 3,
+      "rating": 4.5,
+      "comment": "Magical and vivid.",
+      "dateCreated": "2024-02-24T09:09:00Z"
+    },
+    {
+      "id": 95,
+      "bookId": 55,
+      "userId": 11,
+      "rating": 3.5,
+      "comment": "Sweet love story.",
+      "dateCreated": "2024-02-25T15:56:00Z"
+    },
+    {
+      "id": 96,
+      "bookId": 56,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Great action scenes.",
+      "dateCreated": "2024-02-26T18:41:00Z"
+    },
+    {
+      "id": 97,
+      "bookId": 57,
+      "userId": 10,
+      "rating": 4.0,
+      "comment": "Nice pacing.",
+      "dateCreated": "2024-02-27T20:22:00Z"
+    },
+    {
+      "id": 98,
+      "bookId": 58,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Terrifying but brilliant.",
+      "dateCreated": "2024-02-28T06:40:00Z"
+    },
+    {
+      "id": 99,
+      "bookId": 59,
+      "userId": 2,
+      "rating": 4.5,
+      "comment": "Very creative.",
+      "dateCreated": "2024-02-29T11:58:00Z"
+    },
+    {
+      "id": 100,
+      "bookId": 60,
+      "userId": 12,
+      "rating": 3.0,
+      "comment": "Decent but slow.",
+      "dateCreated": "2024-03-01T10:10:00Z"
+    },
+
+    {
+      "id": 101,
+      "bookId": 61,
+      "userId": 5,
+      "rating": 4.5,
+      "comment": "Wonderful worldbuilding.",
+      "dateCreated": "2024-03-02T13:14:00Z"
+    },
+    {
+      "id": 102,
+      "bookId": 62,
+      "userId": 9,
+      "rating": 5.0,
+      "comment": "Amazing sci-fi.",
+      "dateCreated": "2024-03-03T15:40:00Z"
+    },
+    {
+      "id": 103,
+      "bookId": 63,
+      "userId": 7,
+      "rating": 4.0,
+      "comment": "Engaging mystery.",
+      "dateCreated": "2024-03-04T09:24:00Z"
+    },
+    {
+      "id": 104,
+      "bookId": 64,
+      "userId": 3,
+      "rating": 4.5,
+      "comment": "Great atmosphere.",
+      "dateCreated": "2024-03-05T12:18:00Z"
+    },
+    {
+      "id": 105,
+      "bookId": 65,
+      "userId": 10,
+      "rating": 3.5,
+      "comment": "Nice but uneven.",
+      "dateCreated": "2024-03-06T19:55:00Z"
+    },
+    {
+      "id": 106,
+      "bookId": 66,
+      "userId": 11,
+      "rating": 4.0,
+      "comment": "Solid fantasy.",
+      "dateCreated": "2024-03-07T10:11:00Z"
+    },
+    {
+      "id": 107,
+      "bookId": 67,
+      "userId": 6,
+      "rating": 4.5,
+      "comment": "Loved it.",
+      "dateCreated": "2024-03-08T14:48:00Z"
+    },
+    {
+      "id": 108,
+      "bookId": 68,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Brilliant horror.",
+      "dateCreated": "2024-03-09T16:36:00Z"
+    },
+    {
+      "id": 109,
+      "bookId": 69,
+      "userId": 8,
+      "rating": 4.0,
+      "comment": "Good pacing.",
+      "dateCreated": "2024-03-10T20:10:00Z"
+    },
+    {
+      "id": 110,
+      "bookId": 70,
+      "userId": 12,
+      "rating": 3.5,
+      "comment": "Enjoyable overall.",
+      "dateCreated": "2024-03-11T07:12:00Z"
+    },
+
+    {
+      "id": 111,
+      "bookId": 71,
+      "userId": 9,
+      "rating": 4.5,
+      "comment": "Rich storytelling.",
+      "dateCreated": "2024-03-12T09:33:00Z"
+    },
+    {
+      "id": 112,
+      "bookId": 72,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Fantastic sci-fi!",
+      "dateCreated": "2024-03-13T14:57:00Z"
+    },
+    {
+      "id": 113,
+      "bookId": 73,
+      "userId": 11,
+      "rating": 4.0,
+      "comment": "Creepy but fun.",
+      "dateCreated": "2024-03-14T11:22:00Z"
+    },
+    {
+      "id": 114,
+      "bookId": 74,
+      "userId": 7,
+      "rating": 4.5,
+      "comment": "Loved the lore.",
+      "dateCreated": "2024-03-15T18:14:00Z"
+    },
+    {
+      "id": 115,
+      "bookId": 75,
+      "userId": 5,
+      "rating": 3.5,
+      "comment": "Interesting themes.",
+      "dateCreated": "2024-03-16T13:20:00Z"
+    },
+    {
+      "id": 116,
+      "bookId": 76,
+      "userId": 10,
+      "rating": 4.5,
+      "comment": "Very immersive.",
+      "dateCreated": "2024-03-17T21:33:00Z"
+    },
+    {
+      "id": 117,
+      "bookId": 77,
+      "userId": 4,
+      "rating": 4.0,
+      "comment": "Strong characters.",
+      "dateCreated": "2024-03-18T10:48:00Z"
+    },
+    {
+      "id": 118,
+      "bookId": 78,
+      "userId": 6,
+      "rating": 5.0,
+      "comment": "Amazing mystery.",
+      "dateCreated": "2024-03-19T07:15:00Z"
+    },
+    {
+      "id": 119,
+      "bookId": 79,
+      "userId": 12,
+      "rating": 3.5,
+      "comment": "Good but dense.",
+      "dateCreated": "2024-03-20T16:41:00Z"
+    },
+    {
+      "id": 120,
+      "bookId": 80,
+      "userId": 8,
+      "rating": 4.0,
+      "comment": "Lovely writing.",
+      "dateCreated": "2024-03-21T18:19:00Z"
+    },
+
+    {
+      "id": 121,
+      "bookId": 81,
+      "userId": 7,
+      "rating": 4.5,
+      "comment": "Amazing visuals.",
+      "dateCreated": "2024-03-22T13:30:00Z"
+    },
+    {
+      "id": 122,
+      "bookId": 82,
+      "userId": 11,
+      "rating": 5.0,
+      "comment": "Couldn’t stop reading!",
+      "dateCreated": "2024-03-23T11:44:00Z"
+    },
+    {
+      "id": 123,
+      "bookId": 83,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Strong storytelling.",
+      "dateCreated": "2024-03-24T16:25:00Z"
+    },
+    {
+      "id": 124,
+      "bookId": 84,
+      "userId": 2,
+      "rating": 4.5,
+      "comment": "Really enjoyed it.",
+      "dateCreated": "2024-03-25T20:01:00Z"
+    },
+    {
+      "id": 125,
+      "bookId": 85,
+      "userId": 10,
+      "rating": 3.0,
+      "comment": "Good but slow.",
+      "dateCreated": "2024-03-26T07:17:00Z"
+    },
+    {
+      "id": 126,
+      "bookId": 86,
+      "userId": 4,
+      "rating": 4.5,
+      "comment": "Beautiful world.",
+      "dateCreated": "2024-03-27T12:34:00Z"
+    },
+    {
+      "id": 127,
+      "bookId": 87,
+      "userId": 6,
+      "rating": 5.0,
+      "comment": "Incredible read!",
+      "dateCreated": "2024-03-28T15:09:00Z"
+    },
+    {
+      "id": 128,
+      "bookId": 88,
+      "userId": 9,
+      "rating": 4.0,
+      "comment": "Creepy and engaging.",
+      "dateCreated": "2024-03-29T19:12:00Z"
+    },
+    {
+      "id": 129,
+      "bookId": 89,
+      "userId": 12,
+      "rating": 4.5,
+      "comment": "Loved the mystery.",
+      "dateCreated": "2024-03-30T10:44:00Z"
+    },
+    {
+      "id": 130,
+      "bookId": 90,
+      "userId": 8,
+      "rating": 3.5,
+      "comment": "Nice but slow.",
+      "dateCreated": "2024-03-31T09:19:00Z"
+    },
+
+    {
+      "id": 131,
+      "bookId": 91,
+      "userId": 5,
+      "rating": 4.5,
+      "comment": "Magical experience.",
+      "dateCreated": "2024-04-01T14:11:00Z"
+    },
+    {
+      "id": 132,
+      "bookId": 92,
+      "userId": 2,
+      "rating": 5.0,
+      "comment": "Loved every detail!",
+      "dateCreated": "2024-04-02T11:31:00Z"
+    },
+    {
+      "id": 133,
+      "bookId": 93,
+      "userId": 11,
+      "rating": 4.0,
+      "comment": "Solid and engaging.",
+      "dateCreated": "2024-04-03T12:10:00Z"
+    },
+    {
+      "id": 134,
+      "bookId": 94,
+      "userId": 6,
+      "rating": 4.5,
+      "comment": "Great fantasy tale.",
+      "dateCreated": "2024-04-04T19:22:00Z"
+    },
+    {
+      "id": 135,
+      "bookId": 95,
+      "userId": 9,
+      "rating": 3.5,
+      "comment": "Sweet but simple.",
+      "dateCreated": "2024-04-05T16:17:00Z"
+    },
+    {
+      "id": 136,
+      "bookId": 96,
+      "userId": 7,
+      "rating": 4.5,
+      "comment": "Great pacing.",
+      "dateCreated": "2024-04-06T08:28:00Z"
+    },
+    {
+      "id": 137,
+      "bookId": 97,
+      "userId": 3,
+      "rating": 4.0,
+      "comment": "Good flow.",
+      "dateCreated": "2024-04-07T17:19:00Z"
+    },
+    {
+      "id": 138,
+      "bookId": 98,
+      "userId": 4,
+      "rating": 5.0,
+      "comment": "Masterful horror!",
+      "dateCreated": "2024-04-08T21:14:00Z"
+    },
+    {
+      "id": 139,
+      "bookId": 99,
+      "userId": 8,
+      "rating": 4.5,
+      "comment": "Fantastic read.",
+      "dateCreated": "2024-04-09T10:20:00Z"
+    },
+    {
+      "id": 140,
+      "bookId": 100,
+      "userId": 10,
+      "rating": 3.5,
+      "comment": "Good ending.",
+      "dateCreated": "2024-04-10T11:11:00Z"
+    }
+  ]
+}
